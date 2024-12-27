@@ -7,7 +7,6 @@ Data Sourced from Yahoo Finance (finance.yahoo.com)
 Need dowhy version 0.8
 """
 from dowhy import CausalModel
-import logging
 from data_processing import process_data
 
 if __name__ == "__main__":
